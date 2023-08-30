@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Garvit Minocha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/garvit-minocha-537494129/">LinkedIn</a> |
+  <a href="https://github.com/GarvitGit">GitHub</a>
+  
+  <br>   
+  I'm working on Python and Django at Amantya Technology as A Senior Softwae Engineer.
+  I have a total experience of 3.8 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
